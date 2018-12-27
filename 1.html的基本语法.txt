@@ -1,0 +1,69 @@
+HTNL基础：
+		HTML是用来制作网页的标记语言
+		HTML是Hypertext Markup Language的英文缩写，即超文本标记语言
+		HTML是一种标记语言，不需要编译，直接由浏览器执行
+		HTML文件是一个文本文件，包含了一些HTML元素，标签等。HTML文件必须使用html或htm为文件名后缀
+		HTML是大小写不敏感的与html是一样的
+		html是由W3C的维护的
+html的基本语法：
+	html标签和元素：
+		标签是html中最基本单位，也是最重要组成部分
+		通常要用两个角括号括起来:"<"和">"
+		标签都是闭合的（两种形式：成对与不成对）
+				如：
+					<标签名>内容</标签名> 如：<table></table>即起始和结束
+					<标签名/> 			  如：<br/>
+		标签是大小写无关的，<body>跟<BODY>表示意思是一样的，标准推荐使用小写，符合XHTML标准
+		常用的HTML标签：
+			html-- 定义html文档				body-- 定义文档体body
+			head-- 定义文档头信息head		title-- 定义文档的标题title
+			a-- html链接标签a				img-- html图像标签img
+			div-- html层div					table-- 定义html表格table
+			tr-- 定义表格行tr				td-- 定义表格列td
+			form-- html表单标签form			input-- 定义表单的输入域input
+	html标签属性：
+			标签可以有属性，它包含了额外的信息，属性的值一定要在双引号中
+			标签可以拥有多个属性
+			属性由属性名和值成对出现
+			语法：
+				<标签名 属性名1="属性值" 属性名2="属性值"...属性名N="属性值"></标签名>
+			有四个属性可以在所有html标签中使用
+				id,name,class,style
+	html字符实体:
+		&quot:“
+		&lt:<
+		&nbsp:空格
+		&amp:&
+		&gt:>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

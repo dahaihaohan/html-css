@@ -1,0 +1,101 @@
+选择器： 用于找到哪个或哪些HTML标签
+
+属性：
+	1.字体颜色  color:red;
+	2.字体大小  font-size:30px
+	3.边框		border:1px
+	4.背景		background:#cccccc
+	
+	属性名和值
+		1.属性名和值使用冒号分开
+		2.多个属性对之间分号分开
+	
+基本的语法：
+	选择器{
+		color:red;
+		font-size:30;
+	}
+
+注释：html:  <!--  -->
+	  css:   /*     */ 注释中不能再写注释
+	
+在css样式表中可以使用如下长度单位：
+		相对长度单位：
+			1.px像素（Pixel）。div{font-size:12px;}
+			2.em相对于当前对象内文本的字体尺寸
+				div{font-size:1.2em;}
+			3.%百分比 div{font-size:80%;}
+		绝对长度单位：
+			1.pt点（Point）
+			2.cm厘米（Centimeter）
+			3.mm毫米（Millimeter）
+			换算比例：1in=2.45cm=25.4mm=72pt=6pc
+颜色单位和URL值：
+		css中的颜色值：
+			#rrggbb(如：#ffcc00)
+			#rgb(如：#fc0)
+			rgb(x,x,x)其中x是一个0-255的整数值，如rgb(255,204,0)
+			rgb(x%,x%,x%)其中x是一个0-100的整数值，rgb(100%,80%,0)
+css指定URL地址方式：
+		1.body{background-image:url(bg.jpg)}
+		2.body{background-image:url(http://www.lp.cn/im/bg.jpg)}
+		3.body{background-image:url('bg.jpg')}
+		4.body{background-image:url("bg.jpg")}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

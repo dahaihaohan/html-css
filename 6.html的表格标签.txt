@@ -1,0 +1,77 @@
+
+表格常用标签：
+	table: 代表html表格，table是成对出现的，以<table>开始，以</table>结束
+	caption:用于定义表格标题的位置，可由align和vanlign属性来设置
+	tr: 代表html表中的一行，此标签也要求成对出现
+	th: 代表html表格中的表头，一般位于表格的首行。要求成对
+	td: 代表html表格中的一个单元格。用于存放具体数据内容
+
+表格标签常见属性：
+	table标签属性:
+		width: 代表表格的宽度
+		height:代表表格的高度
+		border:代表表格边框（此属性应该使用css实现）
+		cellspacing:代表表格边框与表格内容填充的距离，也是内容填充之间的距离（此属性应该使用css实现）
+		cellpadding:代表内容填充的宽度（此属性应该使用css实现）
+	th、td标签属性：
+		width与height: 代表宽度与高度
+		colspan: 行跨越多列
+		rowspan：列跨越多行
+		align: 代表水平对齐方式（left(左对齐)| center(居中对齐)| 
+				right(右对齐)|justify）（此属性应该使用css实现）
+		valign:代表垂直对齐方式(top（顶部对齐）| middle(中部对齐)| bottom(下部对齐) | baseline(基线对齐))(此属性应该使用css实现)
+	tr标签属性：
+		align与valign具体解释详见上面
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

@@ -1,0 +1,3 @@
+
+一切属性皆可查表：
+	css参考手册链接：https://www.css88.com/book/css/

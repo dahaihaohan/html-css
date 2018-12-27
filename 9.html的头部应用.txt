@@ -1,0 +1,36 @@
+
+头元素：
+	头元素是指位于<head></head>标签元素,主要包括：
+		<title></title>标签对
+		<base>标签 -- 用于指定网页中的超链接的基准地址，以改变网页中所有相对地址的URL的基准地址
+		<like>标签 -- 定义了当前文档和另一个文档或资源之间的联系
+			几个主要的属性:
+				href,rel与rev，title,type,media
+		<meta>标签 -- 有两种类型的<meta>，用不同的属性名来划分，这两种属性名为：name和http-equiv
+			name:用于在网页中加入一些关于网页的描述信息，例如，网页的关键字、网页的描述信息等
+				属性值：
+					keywords,description:
+					robots:
+						设置值：index、noindex、follow、nofollow、all、none
+					generator,author,copyright:
+			http-equiv:用于在html文档中模拟http协议的响应消息头
+				属性值：
+					content-Type,refresh,expires
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

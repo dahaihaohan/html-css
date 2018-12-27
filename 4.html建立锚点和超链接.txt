@@ -1,0 +1,58 @@
+
+URL = 统一资源定位符  URI
+常用属性：
+	href: 代表一个url链接源
+		1.url除了是网页外，还可以是其他的文件
+		2.url还可以是只向html文件中的一个位置
+		3.url还可以是Email地址
+		<a></a>:
+			一定要使用href进行超链接
+				如：<a href="htttp://www.baidu.com">这是个超链接</a>
+	target: 用来指出哪个窗口或框架应该被此链接打开
+		1.target=_blank:	将链接内容在新的浏览窗口中打开
+		2.target=_parent:	将链接的内容，当成文件的上一个画面
+		3.target=_self:		将链接的内容，显示在目标的窗口中
+		4.target=_top:		这个参数可以解决新内容被旧框窗包围的困扰，使用这参数，会将整个画面重新显示成链接的画面内容
+	title：代表链接的附加提示信息
+	
+三种类型的链接路径：
+	绝对路径：
+		如：http://www.baidu.com
+	文档相对路径：
+		如：adver/contents.html
+	站点根目录相对路径：
+		如：/support/ams/sdad.html    其中“/”表示根目录
+		
+定位网页内部的链接（锚点链接）
+	如：<a name="here1">nihao</a> 然后使用<a href="#here1">跳转</a> 进行跳转到网页的here1的位置
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
